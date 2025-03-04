@@ -1,0 +1,16 @@
+G:\2048\CPP2048Interactive\CPP2048Interactive\obj\Debug\net6.0-windows\CPP2048Interactive.Form1.resources
+G:\2048\CPP2048Interactive\CPP2048Interactive\obj\Debug\net6.0-windows\CPP2048Interactive.csproj.GenerateResource.cache
+G:\2048\CPP2048Interactive\CPP2048Interactive\obj\Debug\net6.0-windows\CPP2048Interactive.GeneratedMSBuildEditorConfig.editorconfig
+G:\2048\CPP2048Interactive\CPP2048Interactive\obj\Debug\net6.0-windows\CPP2048Interactive.AssemblyInfoInputs.cache
+G:\2048\CPP2048Interactive\CPP2048Interactive\obj\Debug\net6.0-windows\CPP2048Interactive.AssemblyInfo.cs
+G:\2048\CPP2048Interactive\CPP2048Interactive\obj\Debug\net6.0-windows\CPP2048Interactive.csproj.CoreCompileInputs.cache
+G:\2048\CPP2048Interactive\CPP2048Interactive\bin\Debug\net6.0-windows\CPP2048Interactive.exe
+G:\2048\CPP2048Interactive\CPP2048Interactive\bin\Debug\net6.0-windows\CPP2048Interactive.deps.json
+G:\2048\CPP2048Interactive\CPP2048Interactive\bin\Debug\net6.0-windows\CPP2048Interactive.runtimeconfig.json
+G:\2048\CPP2048Interactive\CPP2048Interactive\bin\Debug\net6.0-windows\CPP2048Interactive.dll
+G:\2048\CPP2048Interactive\CPP2048Interactive\bin\Debug\net6.0-windows\CPP2048Interactive.pdb
+G:\2048\CPP2048Interactive\CPP2048Interactive\obj\Debug\net6.0-windows\CPP2048Interactive.dll
+G:\2048\CPP2048Interactive\CPP2048Interactive\obj\Debug\net6.0-windows\refint\CPP2048Interactive.dll
+G:\2048\CPP2048Interactive\CPP2048Interactive\obj\Debug\net6.0-windows\CPP2048Interactive.pdb
+G:\2048\CPP2048Interactive\CPP2048Interactive\obj\Debug\net6.0-windows\CPP2048Interactive.genruntimeconfig.cache
+G:\2048\CPP2048Interactive\CPP2048Interactive\obj\Debug\net6.0-windows\ref\CPP2048Interactive.dll
